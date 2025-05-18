@@ -27,3 +27,7 @@ It is composed by three files:
 ### Now, extend the example:
 
 Try adding other methods to the remote object and calling them from the client.
+
+#### Request-Reply (Requisição-Resposta)
+Este é um padrão simples onde um cliente envia uma mensagem e espera por uma resposta do servidor.
+A ideia é ver o cliente enviando mensagens e o servidor respondendo a cada uma delas.
